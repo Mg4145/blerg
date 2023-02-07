@@ -1,6 +1,7 @@
 # Blerg
 A brief description of my project
 
+![GitHub](https://img.shields.io/github/license/timkpaine/blerg)
 
 
 
